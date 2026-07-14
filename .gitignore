@@ -155,7 +155,6 @@ cython_debug/
 
 # CAI files
 .cai/
-.vscode/
 
 # workspaces
 workspaces/
@@ -195,3 +194,7 @@ bench_results/
 network_scan/
 network_scan.*
 refusal_test_output.log
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
